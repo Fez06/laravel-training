@@ -7,7 +7,7 @@
          @vite('resources/js/app.js')
     </head>
     <body>
-        
+        <h1>fffffffffffffff</h1>
 
     </body>
 </html>
